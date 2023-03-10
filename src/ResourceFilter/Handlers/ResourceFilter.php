@@ -22,6 +22,12 @@ use Nvmcommunity\Alchemist\RestfulApi\ResourceFilter\Objects\InvalidFilteringVal
 
 class ResourceFilter
 {
+    // first commit
+    // second commit - new
+    // third commit - commit
+    // fourth commit - commit
+    // fifth commit - commit
+
     private const MAP_OPERATOR_BETWEEN_FILTER_VS_CONDITION = [
         'eq' => '=',
         'is' => '=',
